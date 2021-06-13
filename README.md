@@ -1,10 +1,30 @@
-- 👋 Hi, I’m @susheelg1197
-- 👀 I’m interested in exciting projects
-- 🌱 I’m currently learning nodejs
-- 💞️ I’m looking to collaborate on golang, vuejs, kafka, docker, mongodb, sql and nodejs
-- 📫 susheelg1107@gmail.com
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-<!---
-susheelg1197/susheelg1197 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## नमस्ते 🙏, I'm Susheel Gounder
+## Full Stack Developer 👨‍💻
+
+
+
+[![](https://img.shields.io/badge/LinkedIn-susheelg-blue)](https://in.linkedin.com/in/susheel-gounder-31b7b2115)
+[![](https://img.shields.io/badge/Gmail-susheelg1107%40gmail.com-red)](mailto:susheelg1107@gmail.com)
+
+
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+
+```javascript
+const susheel = {
+    pronouns: "He" | "Him",
+    askMeAbout: ["app dev", "web dev", "tech"],
+    technologies:{
+        backEnd: ["golang", "nodejs", "python"],
+        fronEnd: ["vuejs"],
+        database: ["mongo","mySql","dynammoDb"],
+        devOps: ["AWS", "Nginx","docker"],
+        misc: ["kafka", "Socket.IO"]
+    },
+    architecture: ["Serverless Architecture", "microservices", "event-driven", "Single page applications"],
+}
+```
+
+
+
